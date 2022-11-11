@@ -67,7 +67,7 @@ public class BasicApplicationTests {
     }
 
     /**
-    hola xd dwwfd dfasdfgit 
+    hola xd
      * Test call of create method, on weblayer.
      */
     @Test
